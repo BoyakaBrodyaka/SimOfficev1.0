@@ -1,0 +1,20 @@
+name: SimOffice
+api-version: 1.19
+version: 1.0.0
+author: BoyakaBrodyaka
+main: org.example.MainClass
+commands:
+  setstat:
+    description: command for give a stats
+  setstatus:
+    description: command for give a status
+  resetstats:
+    description: command for a reset all stats!
+  givebuilder:
+    description: command
+  givetablebuilder:
+    description: command
+  home:
+    description: command
+  resetoffice:
+    description: command
